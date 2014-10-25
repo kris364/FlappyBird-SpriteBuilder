@@ -21,9 +21,9 @@
         // this will get called every time the player touches the screen
 }
 
+{)
 // touches the screen
-{
-    [character flap];
+[character flap];
 }
 
 
